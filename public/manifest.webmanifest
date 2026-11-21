@@ -1,0 +1,13 @@
+{
+  "name": "Lift Log",
+  "short_name": "Lift Log",
+  "description": "Track workouts, strength progress, body weight and measurements.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#111827",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
